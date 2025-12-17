@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import Gallery from "./components/gallery";
 import Loader from "./components/Loader";
+import Gallery from "./components/Gallery_temp";
 
 function App() {
   const [photos, setPhotos] = useState([]);
