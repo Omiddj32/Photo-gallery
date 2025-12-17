@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Photo from "./photo";
+import Photo from "./Photo_temp";
 import ImageModal from "./ImageModal";
 
 function Gallery_temp({ photos, visible }) {
